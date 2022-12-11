@@ -11,7 +11,7 @@
 
 - 🤔 I use daily `.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **Full Stack Developer**🥰<br>
-- 🔥 I use to write code on **[leetcode](https://leetcode.com/ganeshmulik1997/)** & **[Geeks for Geeks](https://auth.geeksforgeeks.org/user/ganeshmuop89/practice)**<br>
+- 🔥 I use to write code on **[leetcode](https://leetcode.com/ganeshmulik1997/)** & **[Geeks for Geeks](https://auth.geeksforgeeks.org/user/ganeshmuop89)**<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -26,16 +26,16 @@
 <p>
   
   <a href="mailto:ganeshmulik1997@gmail.com">
-<!--     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/mail.png" width="32px"  /> -->
+    <img align="left" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="36px"  />
   </a>
   <a href="https://www.linkedin.com/in/ganesh-mulik-b9172b15b/">
-<!--     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/linked-in-alt.svg" width="28px" /> -->
+    <img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width="50px" />
   </a>
   <a href="https://leetcode.com/ganeshmulik1997/">
-<!--     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/leetcode.png" width="24px"  /> -->
+    <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" width="40px"  />
   </a>
    <a href="https://twitter.com/Ganesh_Mulik97">
-<!--     <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/twitter.svg" width="32px"  /> -->
+    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-s5uNuA8m3koLES6LXvyCB07y4J-j3aN3HXiU348fg&s" width="50px"  />
   </a>
     
 </p>
