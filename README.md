@@ -114,7 +114,7 @@
  <br/>
 <p align="center">
 <a href="https://github.com/GaneshM007"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAneshM007&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshM007&theme=dracula" />
 </span></a> </p>
 
 
